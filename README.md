@@ -1,4 +1,4 @@
-# Helen Collins – Graphic Design Portfolio
+# Vatsal Boddu – Student Portfolio
 
 ## About Me
 
@@ -8,9 +8,8 @@ I am a motivated and detail-oriented Graphic Design student pursuing a **BA (Hon
 
 ## Contact Information
 
-📍 London, United Kingdom
-📞 0113 456 7890
-📧 [helencollins@email.site.co.uk](mailto:helencollins@email.site.co.uk)
+📍 North Carolina, USA
+📧 vatsal.boddu@gmail.com
 
 ---
 
