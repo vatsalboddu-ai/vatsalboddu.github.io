@@ -1,8 +1,9 @@
-# Vatsal Boddu – Student Portfolio
+# Vatsal Boddu – Student Portfolio 
 
 ## About Me
 
-I am a motivated and detail-oriented Graphic Design student pursuing a **BA (Hons) in Graphic Design** at the University of Clapham. My interests lie in visual communication, branding, digital design, and user experience. I enjoy transforming ideas into compelling visual solutions and continuously expanding my creative and technical skills.
+ Name: Vatsal Boddu
+ Place of birth: Toledo, Ohio
 
 ---
 
