@@ -13,9 +13,9 @@ I am a motivated and detail-oriented Graphic Design student pursuing a **BA (Hon
 
 ---
 
-## Education
+## Achievements
 
-### University of Clapham
+### Duke of Edinburgh SIlver Award
 
 **BA (Hons) Graphic Design**
 Expected Graduation: June 20XX
