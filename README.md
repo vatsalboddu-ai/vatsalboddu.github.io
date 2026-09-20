@@ -26,9 +26,9 @@
 * Physical Recreation: Karate
 * Voluntary Service: Assisting the Chess CCA
 * Adventurous Journey (2 days, 1 night)
-  Preparation and Training
-  Practice Journey
-  Qualifying Journey
+   *Preparation and Training
+   *Practice Journey
+   *Qualifying Journey
 
 **Duke of Edinburgh Silver Award Sections**
 
@@ -37,9 +37,9 @@
 * Voluntary Service: Coaching/Teaching Robotics CCA
                      Environmental Research Volunteering
 * Adventurous Journey (3 days, 2 nights)
-  Preparation and Training
-  Practice Journey
-  Qualifying Journey
+   * Preparation and Training
+   * Practice Journey
+   * Qualifying Journey
 
 ## Karate Black Belt Holder
 
