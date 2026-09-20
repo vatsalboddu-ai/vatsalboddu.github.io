@@ -2,7 +2,8 @@
 
 ## About Me
 
- Name: Vatsal Boddu
+ Name: Vatsal Shrimat Boddu
+ 
  Place of birth: Toledo, Ohio
 
 ---
@@ -16,21 +17,36 @@
 
 ## Achievements
 
-### Duke of Edinburgh SIlver Award
+### Duke of Edinburgh Bronze Award Completed
+### Duke of Edinburgh Silver Award Completed
 
-**BA (Hons) Graphic Design**
-Expected Graduation: June 20XX
+**Duke of Edinburgh Bronze Award Sections**
 
-**Relevant Modules**
+* Skill: German
+* Physical Recreation: Karate
+* Voluntary Service: Assisting the Chess CCA
+* Adventurous Journey (2 days, 1 night)
+  Preparation and Training
+  Practice Journey
+  Qualifying Journey
 
-* Branding
-* Typography
-* Digital Media
-* UX Fundamentals
+**Duke of Edinburgh Silver Award Sections**
 
-**Achievement**
+* Skill: Electronics - Arduino UNO
+* Physical Recreation: Football - Soccer
+* Voluntary Service: Coaching/Teaching Robotics CCA
+                     Environmental Research Volunteering
+* Adventurous Journey (3 days, 2 nights)
+  Preparation and Training
+  Practice Journey
+  Qualifying Journey
 
-* Consistently achieved high grades across core design modules
+## Karate Black Belt Holder
+
+**[Vatsal Karate Black Belt Certificate.pdf]
+  (https://github.com/user-attachments/files/32445557/Vatsal.Karate.Black.Belt.Certificate.pdf)
+
+##
 
 ---
 
