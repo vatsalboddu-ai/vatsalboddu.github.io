@@ -18,7 +18,6 @@
 ## Achievements
 
 ### Duke of Edinburgh Bronze Award Completed
-### Duke of Edinburgh Silver Award Completed
 
 **Duke of Edinburgh Bronze Award Sections**
 
@@ -26,9 +25,11 @@
 * Physical Recreation: Karate
 * Voluntary Service: Assisting the Chess CCA
 * Adventurous Journey (2 days, 1 night)
-   *Preparation and Training
-   *Practice Journey
-   *Qualifying Journey
+   * Preparation and Training
+   * Practice Journey
+   * Qualifying Journey
+
+### Duke of Edinburgh Silver Award Completed
 
 **Duke of Edinburgh Silver Award Sections**
 
@@ -44,7 +45,7 @@
 ## Karate Black Belt Holder
 
 **[Vatsal Karate Black Belt Certificate.pdf]
-  (https://github.com/user-attachments/files/32445557/Vatsal.Karate.Black.Belt.Certificate.pdf)
+ * https://github.com/user-attachments/files/32445557/Vatsal.Karate.Black.Belt.Certificate.pdf
 
 ##
 
