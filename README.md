@@ -44,10 +44,7 @@
 
 ## Karate Black Belt Holder
 
-**<img width="737" height="1280" alt="1b62030a-0707-4b9c-a4d6-7686ddecae75" src="https://github.com/user-attachments/assets/cfaa6047-881d-469b-8f0b-1cc89d52dbb9" />
-
-**[Vatsal Karate Black Belt Certificate.pdf]
- * https://github.com/user-attachments/files/32445557/Vatsal.Karate.Black.Belt.Certificate.pdf
+<img width="368.5" height="640" alt="1b62030a-0707-4b9c-a4d6-7686ddecae75" src="https://github.com/user-attachments/assets/cfaa6047-881d-469b-8f0b-1cc89d52dbb9" />
 
 ##
 
